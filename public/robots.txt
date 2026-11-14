@@ -1,0 +1,7 @@
+# robots.txt for Yashiro's Portfolio — Jervin Paul C. Romualdo (@yashiro-nyx)
+User-agent: *
+Allow: /
+Allow: /assets/
+
+# Crawl-delay and Sitemap discovery
+Sitemap: https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/sitemap.xml

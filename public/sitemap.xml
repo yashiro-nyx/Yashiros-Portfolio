@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+  <!-- Primary Portfolio Entry -->
+  <url>
+    <loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/assets/aistudio/Graphite_Portrait_Cutout_ab45af46.png</image:loc>
+      <image:title>Yashiro's Portfolio — Jervin Paul C. Romualdo (@yashiro-nyx)</image:title>
+      <image:caption>Full-Stack Developer, UI/UX Designer, and BSIT Student at Technological Institute of the Philippines — Quezon City.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Portfolio Sections -->
+  <url>
+    <loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/#work</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/#tech-stack</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/#expertise</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/#about</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/#explorations</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/#credentials</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/#contact</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Project Case Study Pages (01 - 08) -->
+  <url>
+    <loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/?project=repxl</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/assets/aistudio/image_95e0d221.png</image:loc>
+      <image:title>RePXL Camera Marketplace — Full-Stack Case Study</image:title>
+      <image:caption>Peer-to-peer digital camera marketplace built with Next.js 15, Prisma, Supabase, PayMongo webhooks, and Cloudinary.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/?project=permora</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/assets/aistudio/image_87063aa7.png</image:loc>
+      <image:title>Permora Governance — Security &amp; RBAC Case Study</image:title>
+      <image:caption>Role-based access and request governance platform engineered with Next.js 15, React 19, Better Auth (Argon2id), and PostgreSQL.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/?project=synctayo</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/assets/aistudio/image_37cc588d.png</image:loc>
+      <image:title>SyncTayo Workspace — Collaborative Cloud SaaS Case Study</image:title>
+      <image:caption>Real-time team collaboration workspace featuring AWS S3 asset lifecycle management, Socket.io presence, and global search.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/?project=cookie-fluffs</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/assets/aistudio/image_fcc7bca2.png</image:loc>
+      <image:title>Cookie Fluffs Mobile — Hybrid Mobile E-Commerce Case Study</image:title>
+      <image:caption>Hybrid mobile bakery ordering application built with Ionic 9, Angular 22, Capacitor Android, and Neon PostgreSQL.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/?project=lionheart</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/assets/aistudio/image_d60a28ee.png</image:loc>
+      <image:title>LionHeart Photography — Studio Booking &amp; Portfolio Case Study</image:title>
+      <image:caption>Editorial photography showcase and automated client booking platform built with React, Tailwind CSS, and Cloudinary.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/?project=soucul</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/assets/aistudio/image_4ecea37b.png</image:loc>
+      <image:title>SouCul Filipino Souvenirs — Cultural Marketplace Case Study</image:title>
+      <image:caption>E-commerce marketplace celebrating regional Filipino artisans and cultural heritage souvenirs.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/?project=visionforge</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/assets/aistudio/Screenshot_2026-11-13_at_7.33.40_PM_0a0103e5.png</image:loc>
+      <image:title>VisionForge CV Suite — Real-Time Computer Vision Case Study</image:title>
+      <image:caption>Real-time computer vision and gesture recognition suite engineered with Python 3.12, OpenCV, MediaPipe, and PyTorch.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/?project=undouse-hotel</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ais-pre-hpqnzm7xrejysaqgi26u2q-946848177718.asia-southeast1.run.app/assets/aistudio/image_43a775b4.png</image:loc>
+      <image:title>Undouse Hotel System — Hospitality Reservation System Case Study</image:title>
+      <image:caption>Object-oriented hotel and resort reservation management system built with Java Swing and relational database integration.</image:caption>
+    </image:image>
+  </url>
+</urlset>
