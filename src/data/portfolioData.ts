@@ -852,7 +852,7 @@ export const SKILL_GROUPS: SkillGroup[] = [
 export const EXPERIENCES: ExperienceItem[] = [
   {
     id: 'bsit-tip',
-    period: '2023 — Present',
+    period: '2024 — Present',
     title: 'BS in Information Technology (3rd Year)',
     organization: 'Technological Institute of the Philippines — Quezon City',
     type: 'Education',

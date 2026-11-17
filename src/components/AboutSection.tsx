@@ -341,7 +341,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({
                 })}
               </div>
               <span className="text-xs font-mono text-muted tabular-nums">
-                2023 — 2026
+                2024 — Present
               </span>
             </div>
           </motion.div>
